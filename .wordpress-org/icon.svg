@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50.0184332%" y1="56.933724%" x2="50.0184332%" y2="-0.0534435262%" id="linearGradient-1">
+            <stop stop-color="#00B3B3" offset="0%"></stop>
+            <stop stop-color="#007273" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon">
+            <g id="Brand-Icon/300/Default">
+                <g id="TL_icon_72x72_default">
+                    <polygon id="Shape" fill="url(#linearGradient-1)" fill-rule="nonzero" points="85.3333333 128 120.888889 188.444444 120.888889 128"></polygon>
+                    <polygon id="Shape" fill="#00B2B2" fill-rule="nonzero" points="120.888889 71.1111111 120.888889 128 28.4444444 128"></polygon>
+                    <polygon id="Shape" fill="url(#linearGradient-1)" fill-rule="nonzero" transform="translate(196.219931, 128.495439) scale(-1, 1) rotate(120.000000) translate(-196.219931, -128.495439) " points="179.458681 100.454979 211.837015 156.535898 212.981181 101.628764"></polygon>
+                    <polygon id="Shape" fill="#00B2B2" fill-rule="nonzero" transform="translate(129.524791, 128.897439) scale(-1, 1) rotate(120.000000) translate(-129.524791, -128.897439) " points="180.331615 97.8034283 179.285469 159.99145 78.7179677 156.470095"></polygon>
+                    <rect id="bg" x="0" y="0" width="256" height="256"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
